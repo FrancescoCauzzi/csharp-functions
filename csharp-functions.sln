@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-functions", "csharp-functions.csproj", "{7780A760-F511-4481-9D75-6CB9A7256158}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-functions-bonus", "..\csharp-functions-bonus\csharp-functions-bonus.csproj", "{E5AA086A-6544-4DC4-92A4-8D3E201EBAFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7780A760-F511-4481-9D75-6CB9A7256158}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7780A760-F511-4481-9D75-6CB9A7256158}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7780A760-F511-4481-9D75-6CB9A7256158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5AA086A-6544-4DC4-92A4-8D3E201EBAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AA086A-6544-4DC4-92A4-8D3E201EBAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AA086A-6544-4DC4-92A4-8D3E201EBAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AA086A-6544-4DC4-92A4-8D3E201EBAFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
